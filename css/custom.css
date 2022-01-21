@@ -1,0 +1,27 @@
+.mr-24px {
+    margin-right: -24px;
+}
+
+.bg-slider {
+    background-color: #FEEAE9;
+}
+
+.f-56 {
+    font-size: 3.5rem;
+}
+
+.color1 {
+    color: #FF136F;
+}
+
+.gradient {
+    background-image: linear-gradient(to right, #ff74a9, #FF1E76);
+}
+
+.border-none {
+    border: none;
+}
+
+.height-vh {
+    min-height: 100vh;
+}
